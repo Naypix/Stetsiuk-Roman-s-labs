@@ -1,0 +1,23 @@
+
+==============================
+Teacher: Maria Shevchenko
+Subject: Physical Education
+==============================
+
+>> Coach 1:
+
+Coach name: Kovalenko Andriy
+Role: Trainer
+--- Assigned sportsmen ---
+  Sportsman name: Bondarenko Oleg
+  Type of abonement: Full abonement
+  Sportsman name: Ivan Petrenko
+  Type of abonement: Half abonement
+
+>> Coach 2:
+
+Coach name: Petrenko Roman
+Role: Assistant
+--- Assigned sportsmen ---
+  Sportsman name: Andriy Koval
+  Type of abonement: Monthly abonement
