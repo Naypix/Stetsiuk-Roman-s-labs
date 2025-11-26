@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\romah\source\repos\Lab_7\Lab_7\FileName.cpp(26,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Lab_7.vcxproj -> C:\Users\romah\source\repos\Lab_7\x64\Debug\Lab_7.exe
